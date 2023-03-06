@@ -1,0 +1,4 @@
+{
+    "terminal.integrated.scrollback": 10000,
+    "diffEditor.maxFileSize": 10000
+}
